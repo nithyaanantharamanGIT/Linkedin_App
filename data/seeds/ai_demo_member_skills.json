@@ -1,0 +1,98 @@
+[
+  {
+    "member_id": "7a625926-3cf9-48b3-ad15-b1d8a621f558",
+    "skill": "Python"
+  },
+  {
+    "member_id": "7a625926-3cf9-48b3-ad15-b1d8a621f558",
+    "skill": "SQL"
+  },
+  {
+    "member_id": "7a625926-3cf9-48b3-ad15-b1d8a621f558",
+    "skill": "PyTorch"
+  },
+  {
+    "member_id": "7a625926-3cf9-48b3-ad15-b1d8a621f558",
+    "skill": "Spark"
+  },
+  {
+    "member_id": "7a625926-3cf9-48b3-ad15-b1d8a621f558",
+    "skill": "Tableau"
+  },
+  {
+    "member_id": "68f7e0ee-fe42-48c1-ba2b-469672cc416e",
+    "skill": "Python"
+  },
+  {
+    "member_id": "68f7e0ee-fe42-48c1-ba2b-469672cc416e",
+    "skill": "FastAPI"
+  },
+  {
+    "member_id": "68f7e0ee-fe42-48c1-ba2b-469672cc416e",
+    "skill": "PostgreSQL"
+  },
+  {
+    "member_id": "68f7e0ee-fe42-48c1-ba2b-469672cc416e",
+    "skill": "Docker"
+  },
+  {
+    "member_id": "9de50f99-a264-49ac-b352-7d8e90881048",
+    "skill": "React"
+  },
+  {
+    "member_id": "9de50f99-a264-49ac-b352-7d8e90881048",
+    "skill": "TypeScript"
+  },
+  {
+    "member_id": "34ccde58-7a89-425e-8857-c55dabe4e0b2",
+    "skill": "Python"
+  },
+  {
+    "member_id": "34ccde58-7a89-425e-8857-c55dabe4e0b2",
+    "skill": "TensorFlow"
+  },
+  {
+    "member_id": "34ccde58-7a89-425e-8857-c55dabe4e0b2",
+    "skill": "AWS"
+  },
+  {
+    "member_id": "34ccde58-7a89-425e-8857-c55dabe4e0b2",
+    "skill": "Kubernetes"
+  },
+  {
+    "member_id": "8766cffe-f620-48c0-9366-79e48806b398",
+    "skill": "SQL"
+  },
+  {
+    "member_id": "8766cffe-f620-48c0-9366-79e48806b398",
+    "skill": "Excel"
+  },
+  {
+    "member_id": "8766cffe-f620-48c0-9366-79e48806b398",
+    "skill": "Tableau"
+  },
+  {
+    "member_id": "99691966-3433-4989-9fea-067a22de542c",
+    "skill": "Docker"
+  },
+  {
+    "member_id": "99691966-3433-4989-9fea-067a22de542c",
+    "skill": "Kubernetes"
+  },
+  {
+    "member_id": "3a34c4a8-5843-49f9-915a-6d3e7731cbfa",
+    "skill": "Python"
+  },
+  {
+    "member_id": "3a34c4a8-5843-49f9-915a-6d3e7731cbfa",
+    "skill": "AWS"
+  },
+  {
+    "member_id": "3a34c4a8-5843-49f9-915a-6d3e7731cbfa",
+    "skill": "Kubernetes"
+  },
+  {
+    "member_id": "3a34c4a8-5843-49f9-915a-6d3e7731cbfa",
+    "skill": "Linux"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "job_id": "5225d71b-e53a-45ad-b009-7f9d59da98d8",
+    "skill": "Python"
+  },
+  {
+    "job_id": "5225d71b-e53a-45ad-b009-7f9d59da98d8",
+    "skill": "SQL"
+  },
+  {
+    "job_id": "5225d71b-e53a-45ad-b009-7f9d59da98d8",
+    "skill": "PyTorch"
+  },
+  {
+    "job_id": "5225d71b-e53a-45ad-b009-7f9d59da98d8",
+    "skill": "Spark"
+  },
+  {
+    "job_id": "5225d71b-e53a-45ad-b009-7f9d59da98d8",
+    "skill": "Tableau"
+  },
+  {
+    "job_id": "f16d0a46-2edf-4567-a01b-f03cc6d13c03",
+    "skill": "Python"
+  },
+  {
+    "job_id": "f16d0a46-2edf-4567-a01b-f03cc6d13c03",
+    "skill": "FastAPI"
+  },
+  {
+    "job_id": "f16d0a46-2edf-4567-a01b-f03cc6d13c03",
+    "skill": "PostgreSQL"
+  },
+  {
+    "job_id": "f16d0a46-2edf-4567-a01b-f03cc6d13c03",
+    "skill": "Docker"
+  },
+  {
+    "job_id": "f16d0a46-2edf-4567-a01b-f03cc6d13c03",
+    "skill": "Kafka"
+  },
+  {
+    "job_id": "be453770-3d88-457c-9f4c-e12d2978d8aa",
+    "skill": "React"
+  },
+  {
+    "job_id": "be453770-3d88-457c-9f4c-e12d2978d8aa",
+    "skill": "TypeScript"
+  },
+  {
+    "job_id": "be453770-3d88-457c-9f4c-e12d2978d8aa",
+    "skill": "GraphQL"
+  },
+  {
+    "job_id": "be453770-3d88-457c-9f4c-e12d2978d8aa",
+    "skill": "CSS"
+  },
+  {
+    "job_id": "e1744c26-a2cb-4c43-b445-da9e4be2dc8b",
+    "skill": "Python"
+  },
+  {
+    "job_id": "e1744c26-a2cb-4c43-b445-da9e4be2dc8b",
+    "skill": "TensorFlow"
+  },
+  {
+    "job_id": "e1744c26-a2cb-4c43-b445-da9e4be2dc8b",
+    "skill": "AWS"
+  },
+  {
+    "job_id": "e1744c26-a2cb-4c43-b445-da9e4be2dc8b",
+    "skill": "Kubernetes"
+  },
+  {
+    "job_id": "cd098ee4-557d-4708-bcc5-5228d6460e6f",
+    "skill": "SQL"
+  },
+  {
+    "job_id": "cd098ee4-557d-4708-bcc5-5228d6460e6f",
+    "skill": "Excel"
+  },
+  {
+    "job_id": "cd098ee4-557d-4708-bcc5-5228d6460e6f",
+    "skill": "Tableau"
+  },
+  {
+    "job_id": "cd098ee4-557d-4708-bcc5-5228d6460e6f",
+    "skill": "Python"
+  },
+  {
+    "job_id": "c0a255d3-baa8-4663-b7a0-7390dbe1f633",
+    "skill": "Docker"
+  },
+  {
+    "job_id": "c0a255d3-baa8-4663-b7a0-7390dbe1f633",
+    "skill": "Kubernetes"
+  },
+  {
+    "job_id": "c0a255d3-baa8-4663-b7a0-7390dbe1f633",
+    "skill": "Terraform"
+  },
+  {
+    "job_id": "c0a255d3-baa8-4663-b7a0-7390dbe1f633",
+    "skill": "Python"
+  },
+  {
+    "job_id": "2cb2da85-ca84-43db-92a9-d7ff650afd9b",
+    "skill": "Python"
+  },
+  {
+    "job_id": "2cb2da85-ca84-43db-92a9-d7ff650afd9b",
+    "skill": "AWS"
+  },
+  {
+    "job_id": "2cb2da85-ca84-43db-92a9-d7ff650afd9b",
+    "skill": "Kubernetes"
+  },
+  {
+    "job_id": "2cb2da85-ca84-43db-92a9-d7ff650afd9b",
+    "skill": "Linux"
+  }
+]
