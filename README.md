@@ -1,4 +1,4 @@
-# LinkedIn (class project)
+# LinkedIn 
 
 A LinkedIn-style professional networking platform built as a distributed systems class project. This app lets members create profiles, connect with each other, browse and apply to jobs, message recruiters, and track their application pipeline. Recruiters can post listings, manage applicants, and communicate with candidates. Activity is streamed through Kafka and aggregated into an analytics layer in real time.
 
